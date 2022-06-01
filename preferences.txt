@@ -1,0 +1,5 @@
+movie - Forrest Gump
+tvshow - Young Sheldon
+food - pelemeni
+season - summer
+country-to-visit - Hungary
