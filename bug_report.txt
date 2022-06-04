@@ -1,6 +1,8 @@
 Bug_report -
 Assignee: Back/Front-developer
 Project: Mail UI
+Priority: High
+Severity: Blocker
 SourceURL: http://somelink.com
 Reproduce steps: 1. Click update button
 Actual result: Error message
